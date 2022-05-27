@@ -2,6 +2,7 @@
 #include<string.h>
 
 #define MAX 1000
+
 int main() {
 	char s[MAX];
 	gets(s);
